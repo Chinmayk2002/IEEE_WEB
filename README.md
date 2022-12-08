@@ -1,2 +1,1 @@
-# IEEE_WEB
-IEEE MMCOE website
+# IEEE-Website
